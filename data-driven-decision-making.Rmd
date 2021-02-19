@@ -1,30 +1,24 @@
 ---
 title: "Assigment - Data Driven Decision Making"
-author: name author here
+author: Qiwen Chen
 date: "`r format(Sys.time(), '%d %B, %Y')`"
+self_contained: false
 output:
   html_notebook:
     toc: yes
     toc_depth: 2
 ---
 
-Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
-
-<---- Watch this video if you don't know how to embed video's ---->
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9YffrCViTVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<---- Replace this video with your business case example ---->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8M5n3uhWKHE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
 
 ## Why was data driven decision making (3DM) useful in this business case?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Netflix is successful business with large amount of subscribers and has well-developed target markets throughout the world. According to Provost & Fawcett (2013), Data-driven decision-making (DDD) refers to the practice of basing decisions on the analysis of data, rather than purely on intuition. In this case, Netflix has using AI and data at the core of its business strategy and in many areas. First of all, Netflix uses data to have a better understanding in its customers to produce new contents/productions (movies, TV series). Moreover, it can give personalized recommendation of contents and thumbnails to each customers based on the data. It also uses AI and big data in its streaming optimization and production process. Therefore, it wouldn't be so success without the use of 3DM.
 
 ## How did the organization apply 3DM?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+As mentioned above, Netflix is putting AI and data at its core operations, so it also applies 3DM in its daily operations as well. For example, Netflix is able to recommend new movies and TV series to its customers by noticing that each customer only take about a minute and half to find the next video, so Netflix putting efforts in the use of algorithms to analyze each customers to show the most attractive thumbnails to each one. It is able produce highly successful contents/productions, not just for the mass market, but also for the niche market by understanding the customers data and behaviors, which boosts the success rate of newly produced content from traditional 30-40% to 80%. Furthermore, it has used AI during the pre and post production of the contents. For pre-production, AI tools can find the suitable location and actors, where the camera teams should and what sort of scenes required, etc. Quality checks are driven by AI during the post-production process to notice and correct mistakes. Lastly, Netflix make uses of machine learning algorithms to determine which films might need to connect to the regional server to ensure and monitor film quality to optimizate its streaming. These are some examples how Netflix apply 3DM.
 
 ## What can the organization do with 3DM that they couldn’t do before?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Before applying 3DM, Netflix couldn't able to do most of the things that it is doing now. It won't able to know and serve its customers' wants and needs so well as it did now, and it won't able to rank the film into categories, such as the top 10 horror movies without the support of data. The most important point is that it won't be so success and lead in the industry by replacing the traditional TV without using 3DM in its operation. With data, Netflix is able to make the more effective and efficient decisions to serve its market.
