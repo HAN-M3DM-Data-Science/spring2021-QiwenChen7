@@ -2,6 +2,7 @@
 title: "Assigment - Data Problems vs Data Solutions"
 author: name author here
 date: "`r format(Sys.time(), '%d %B, %Y')`"
+self_contained: false
 output:
   html_notebook:
     toc: yes
