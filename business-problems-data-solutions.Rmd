@@ -1,6 +1,6 @@
 ---
 title: "Assigment - Data Problems vs Data Solutions"
-author: name author here
+author: Qiwen Chen
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 self_contained: false
 output:
@@ -9,19 +9,21 @@ output:
     toc_depth: 2
 ---
 
-Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EN77cq53Dfw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
 
-<---- Embed code here ---->
-
+Caterpillar Inc. is the world’s leading manufacturer of construction and mining equipment, diesel and natural gas engines, industrial gas turbines, and diesel-electric locomotives (Caterpillar, 2021). Caterpillar Inc. has about 20 portfolio of brands that offers machines, engines, components, services and solutions to meet the unique needs of a variety of industries and customers around the world. 
 
 ## What was the business problem?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+In this case, the Marine Division of Caterpillar mainly provides services to ship operators. There are two large costs that Caterpillar is taking into account, which are fuel and hull clean in every two years. Hull clean is to take the ship out of the water to clean the deposits that slow the ship and cause more fuel consumption, so it is necessary to do this to improve performance. The problem is that hull clean for every two years costs a lot, and Caterpillar want to reduce the costs. Moreover, they also want to optimize the energy use in the refrigerated container ships.
 
 ## How was it translated into a data mining problem?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+Therefore, Caterpillar wants to use data to optimize this problem. With the use of data, it can answers different questions; such as how often should hull clean be taking place, less frequent or more frequent. In this case, they collected data on fuel consumption, ships' speed and the performance before and after the hull clean. They found out that a clean hull made a big difference in term of speed and fuel consumption. Eventually, they adjust the hull clean from every two years to every 6 months. Caterpillar is able to save $400,000 per ship in a yearly basis with understanding the data that they get. 
+For the container ships, they did the similar process that they collected a bunch of data on the refrigerated containers and answer questions, such as how can they optimize the energy in the generators to power these containers' cooling units. They are also able to use these data to slightly tweak the generator that is able to power the cooling and also reduce a bit of energy. This affects a $30 savings per hour, which is a lot when calculating in a yearly basis.
 
 ## What is the realized business value?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+From the above use of data, Caterpillar is really taking the advantage of data mining and data driven decision making into account to drive performance and improve efficiency by just looking at some specific data and adjust a bit based on the insights. Consequently, this assists Caterpillar to save millions of dollars per year. To conclude, the realized business values in this case are drive performance, improve efficiency and reduce costs.
+
+Caterpillar. (2021). About Caterpillar. Retrieved from https://www.caterpillar.com/en/company.html 
